@@ -2,9 +2,9 @@
 
 Página de vendas do livro. Arquivo único (`index.html`), com imagens embutidas e sem dependências de build.
 
-## Antes de publicar
+## Checkout
 
-Abra o `index.html`, procure por `var CHECKOUT_URL = "";` e coloque o link real do checkout entre as aspas. Enquanto estiver vazio, os botões de compra só mostram um aviso.
+O link do checkout (Hubla) fica em `var CHECKOUT_URL` no `index.html`. Para trocar, edite só essa linha.
 
 ## Publicar no GitHub Pages
 
