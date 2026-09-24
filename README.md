@@ -8,4 +8,4 @@ Abra o `index.html`, procure por `var CHECKOUT_URL = "";` e coloque o link real 
 
 ## Publicar no GitHub Pages
 
-Settings > Pages > Source: "Deploy from a branch" > branch `main`, pasta `/ (root)`.
+Settings > Pages > Source: "Deploy from a branch" > escolha a branch onde está o `index.html`, pasta `/ (root)`.
